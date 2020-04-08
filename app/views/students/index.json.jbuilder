@@ -1,0 +1,1 @@
+json.array! @students, :id, :name, :roll_number, :house
